@@ -3,8 +3,11 @@
 ## Description
 
 The **Name Personality Analyzer** is a simple web application that allows users to explore what their name says about their personality. Users can enter their name, click a button, and see a dynamically generated image that reflects their name's personality.
-
+<br>
 ![Screenshot 2023-09-18 085844](https://github.com/anshul-132002/Personality__Character-API-/assets/128448038/36b1bd1d-a72a-4cb6-aa9a-132c94abd3da)
+
+![Screenshot 2023-09-18 085958](https://github.com/anshul-132002/Personality__Character-API-/assets/128448038/7c6043ce-99e1-4a74-9c10-92b5a9e97073)
+
 <hr>
 ## Features
 
